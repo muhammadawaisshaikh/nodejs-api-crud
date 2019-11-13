@@ -13,3 +13,6 @@ npm start
 
 # Basic routing
 https://expressjs.com/en/starter/basic-routing.html
+
+# Serving static files in Express
+https://expressjs.com/en/starter/static-files.html
